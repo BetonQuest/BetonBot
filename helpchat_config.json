@@ -18,7 +18,7 @@
   ],
   "seconds_until_idle": 3600,
   "seconds_to_poll": 60,
-  "relocate_emoji": "<:clap:>",
+  "relocate_emoji": "<:Betonquest:708749064258322443>",
   "resolve_emoji": "<:bq:708735876095541368>",
   "min_hoisted_channels": 1,
   "max_hoisted_channels": 3,

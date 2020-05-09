@@ -18,8 +18,8 @@
   ],
   "seconds_until_idle": 3600,
   "seconds_to_poll": 60,
-  "relocate_emoji": "<:clap:708337491198869575>",
-  "resolve_emoji": "<:white_check_mark:708337641829171243>",
+  "relocate_emoji": "<:clap:>",
+  "resolve_emoji": "<:bq:708735876095541368>",
   "min_hoisted_channels": 1,
   "max_hoisted_channels": 3,
 

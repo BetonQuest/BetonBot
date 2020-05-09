@@ -1,6 +1,10 @@
 {
-  "test": {
-    "message": "Its BetonQuest!",
-    "tags": "test"
+  "Whats an event": {
+    "message": "Something you can make happen ingame!",
+    "tags": "Whats an event"
+  },
+  "Whats an objective": {
+    "message": "Something that happens in the game that can be used to trigger events!",
+    "tags": "Whats an objective"
   }
 }
